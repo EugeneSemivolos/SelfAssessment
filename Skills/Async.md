@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop k
+  - `try..catch` k
+  - Non-blocking 
+  - Async I/O 
+  - Thread pool k
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
+  - libuv h
   - Race conditions
-  - Dead locks
+  - Dead locks h
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming h
   - Actor Model
-  - Thread
-  - Process
+  - Thread h
+  - Process u
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks u
+  - Callback-last-error-first h
   - Thenable
-  - Promise
-  - Async/await
+  - Promise u
+  - Async/await u
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator h
+  - Async Generator h
+  - Async Iterator h
+  - Event u
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal h
+  - Stream h
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware h
+  - Locks h
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,10 +47,10 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - EventEmitter h
+  - Observable/Observer h
+  - Readable k
+  - Writable k
   - Transform
   - Async Pool
   - Async Queue
@@ -59,8 +59,8 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
+  - Timers k
+  - `setImmediate` k
   - `nextTick`
   - AbortController
   - AbortSignal
@@ -73,7 +73,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON streaming serialization
+  - JSON streaming serialization k
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
