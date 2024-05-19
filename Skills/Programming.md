@@ -69,9 +69,9 @@
   - Primitive types e
   - Reference types e
   - Type systems e
-  - Strong typing k
-  - Weak typing k
-  - Duck typing 
+  - Strong typing u
+  - Weak typing u
+  - Duck typing k
   - Static typing u
   - Dynamic typing u
   - Nominal typing
@@ -90,7 +90,7 @@
   - Closure e
   - Partial application 
   - Currying h
-  - Higher order h
+  - Higher order k
   - Recursion e
   - Tail call optimisation
   - Callback e
@@ -178,9 +178,9 @@
   - Improbability factor 
   - Accidental complexity k
   - Action at a distance h
-  - Spaghetti h
+  - Spaghetti k
   - Silver bullet k
-  - Not invented here
+  - Not invented here k
   - Dead code k
   - Unreachable code k
   - Duplicate code k
@@ -191,7 +191,7 @@
   - Long inheritance k
   - Large class/file k
   - Too many parameters k
-  - Pass-through parameters
+  - Pass-through parameters k
   - Accumulate and fire
   - Use switch/case k
   - Temporary field 
