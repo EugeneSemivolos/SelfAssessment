@@ -5,7 +5,7 @@
   - Components k
   - Directories k
   - GRASP h
-  - SOLID h
+  - SOLID k
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -55,22 +55,22 @@
   - On-premises
   - IaaS
   - PaaS
-  - SaaS h
+  - SaaS k
   - FaaS clouds
   - Serverless h
   - Vendor lock-in
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
+  - Solution visions h
+  - Solution capabilities h
+  - System design h
+  - Process modelling h
+  - Data modelling h
   - Solution components
-  - Risk assessment
+  - Risk assessment h
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds k
   - BPMN
   - Low-code
   - No-code
@@ -87,14 +87,14 @@
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture
+  - Service-oriented architecture h
   - Microservices h
   - Process choreography
   - Service orchestration
   - Data warehouse
   - Business Intelligence
-  - OLAP
-  - OLTP
+  - OLAP h
+  - OLTP h
   - Conways Law
   - Quality assurance
   - Engineering Hygiene
