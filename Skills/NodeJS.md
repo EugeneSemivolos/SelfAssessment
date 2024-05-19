@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js k
   - Stateful and stateless servers h
   - Nonblocking I/O and blocking code 
   - Event loop phases 
@@ -30,7 +30,7 @@
   - Node.js CLI k
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
+  - Clustering k
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
@@ -38,7 +38,7 @@
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async)
+  - File system API (sync and async) k
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -67,7 +67,7 @@
   - Protocol agnostic approach
   - Fetch API u
   - IncomingMessage
-  - HTTP(S) k
+  - HTTP(S) u
   - TCP/SSL k
   - UDP k
   - TLSh
@@ -90,15 +90,15 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging k
+  - Logging u
   - Application configuring
   - Testing u
-  - CI/CD k
+  - CI/CD u
   - Readable k
   - Writable k
   - Transform
   - Back pressure
-  - Buffer k
+  - Buffer u
   - Console u
   - Inspector u
 - Data access
@@ -122,7 +122,7 @@
   - Debugging tools
   - Flame graph
   - Memory leaks k
-  - Resource leaks h
+  - Resource leaks k
   - Data race
 - Integrations and bindings
   - Native addons
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
+  - Shared memory h
   - V8 binary serialization
