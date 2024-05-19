@@ -3,15 +3,15 @@
 - Theory and concepts
   - Data types k
   - Performance tuning k
-  - Migrations h
-  - Schema versioning h
-  - Backup and recovery h
-  - Database scalability h
-  - Relational databases h
+  - Migrations k
+  - Schema versioning k
+  - Backup and recovery k
+  - Database scalability k
+  - Relational databases k
   - Key-value store u
   - Tuple store 
-  - Graph databases
-  - Object databases
+  - Graph databases h
+  - Object databases h
   - Column databases k
   - Navigational databases h
   - Hierarchical databases h
@@ -22,11 +22,11 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram h
+  - Entity-Relationship Diagram k
   - Normal forms h
   - Indexing h
-  - Primary keys h
-  - Foreign keys h
+  - Primary keys k
+  - Foreign keys k
   - Transactions h
   - Views h
   - Subqueries h
@@ -70,18 +70,18 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL h
+  - PostgreSQL k
   - Oracle h
-  - MySQL h
+  - MySQL k
   - MariaDB
   - MS SQL Server h
-  - Redis
+  - Redis h
   - Rabbit
-  - MongoDB h
+  - MongoDB k
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite h
   - DynamoDB
   - Firebase
 - Data engineering
@@ -89,6 +89,6 @@
   - Business intelligence
   - Big data h
   - Data analysis h
-  - AI tools h
+  - AI tools k
   - Cloud databases h
   - Data Visualization h
