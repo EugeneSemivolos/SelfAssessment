@@ -12,7 +12,7 @@
   - Generic programming h
   - Concurrent computing h
   - Asynchronous programming k
-  - Parallel programming h
+  - Parallel programming u
   - Reactive programming u
   - Functional-reactive (FRP) 
   - Automata-based programming
@@ -65,22 +65,22 @@
   - Dependency inversion principle (DIP) h
 - Patterns
   - Singleton u
-  - Factory Method 
+  - Factory Method k
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
+  - Adapter k
+  - Observer k
+  - Strategy k
+  - Facade k
+  - Proxy k
   - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Command k
+  - Iterator k
+  - State k
   - Bridge
   - Builder
-  - Prototype
+  - Prototype k
   - Composite
-  - Decorator
+  - Decorator k
   - Flyweight
   - Mediator
   - Memento
