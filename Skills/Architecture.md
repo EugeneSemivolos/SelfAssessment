@@ -1,16 +1,16 @@
 ## Architecture
 
 - Application structure
-  - Modularity 
-  - Components k
-  - Directories k
-  - GRASP h
-  - SOLID h
+  - Modularity
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code h
-  - Contract programming h
+  - Multiparadigm code: 👂 heard
+  - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
@@ -18,22 +18,22 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability h
-  - Quality h
-  - Availability h
-  - Flexibility h
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer h
+  - Isolation between layer: 👂 heard
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming k
-  - Inversion of control (IoC) k
-  - Dependency injection (DI) k
-  - Clean architecture k
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 🎓 known
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -55,9 +55,9 @@
   - On-premises
   - IaaS
   - PaaS
-  - SaaS h
+  - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless h
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices h
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
