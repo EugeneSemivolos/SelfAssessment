@@ -2,32 +2,32 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Stateful and stateless servers h
+  - Nonblocking I/O and blocking code 
+  - Event loop phases 
   - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Garbage collection k
+  - Node.js LTS schedule 
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules h
+  - ECMAScript modules h
+  - Module `node:module` h
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
+  - Isolation with modularity h
+  - Dependency injection k
+  - DI containers 
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments u
+  - Node.js CLI k
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -60,69 +60,69 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling
+  - Endpoint throttling h
   - ALPN
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) k
+  - TCP/SSL k
+  - UDP k
+  - TLSh
+  - Websocket k
   - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - HTTP/3 (QUIC) h
+  - Long polling 
+  - REST u
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing u
+  - DoS k
+  - DDoS u
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS k
+  - SQL injection h
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging k
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Testing u
+  - CI/CD k
+  - Readable k
+  - Writable k
   - Transform
   - Back pressure
-  - Buffer
-  - Console
-  - Inspector
+  - Buffer k
+  - Console u
+  - Inspector u
 - Data access
   - Data access layer
-  - Repository
-  - Active record
+  - Repository u
+  - Active record 
   - Query builder
   - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - CRUD u
+  - DTO 
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
+  - `Error` u
+  - `error.cause` h
+  - `error.code` u
+  - `error.message` u
+  - `error.stack` h
   - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
-  - Heap dump
+  - How to avoid mixins k
+  - Uncaught exceptions k
+  - Heap dump 
   - Debugging tools
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks k
+  - Resource leaks h
   - Data race
 - Integrations and bindings
   - Native addons
