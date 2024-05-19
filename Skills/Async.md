@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
-  - `try..catch` k
-  - Non-blocking 
-  - Async I/O 
-  - Thread pool k
+  - Event loop: 🎓 known
+  - `try..catch`: 🎓 known
+  - Non-blocking
+  - Async I/O
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv h
+  - libuv: 👂 heard
   - Race conditions
-  - Dead locks h
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming
-  - Parallel programming h
+  - Parallel programming: 👂 heard
   - Actor Model
-  - Thread h
-  - Process u
+  - Thread: 👂 heard
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks u
-  - Callback-last-error-first h
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 👂 heard
   - Thenable
-  - Promise u
-  - Async/await u
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
-  - Sync generator h
-  - Async Generator h
-  - Async Iterator h
-  - Event u
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal h
-  - Stream h
+  - Signal: 👂 heard
+  - Stream: 👂 heard
   - Chain of responsibility
-  - Middleware h
-  - Locks h
+  - Middleware: 👂 heard
+  - Locks: 👂 heard
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,10 +47,10 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter h
-  - Observable/Observer h
-  - Readable k
-  - Writable k
+  - EventEmitter: 👂 heard
+  - Observable/Observer: 👂 heard
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Async Pool
   - Async Queue
@@ -59,8 +59,8 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers k
-  - `setImmediate` k
+  - Timers: 🎓 known
+  - `setImmediate`: 🎓 known
   - `nextTick`
   - AbortController
   - AbortSignal
@@ -73,7 +73,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON streaming serialization k
+  - JSON streaming serialization: 🎓 known
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
